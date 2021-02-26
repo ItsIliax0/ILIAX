@@ -3,6 +3,8 @@ const mobile_menu = document.querySelector('.header .nav-bar .nav-list ul');
 const menu_item = document.querySelectorAll('.header .nav-bar .nav-list ul li a');
 const header = document.querySelector('.header.container');
 
+data-ad-client="ca-pub-1970831678370223" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+
 hamburger.addEventListener('click', () => {
 	hamburger.classList.toggle('active');
 	mobile_menu.classList.toggle('active');
